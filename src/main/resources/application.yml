@@ -1,0 +1,11 @@
+person:
+  name: zhangsan;
+  age: 20
+  birthday: 2018/10/10
+  map: {k1 : 1 , k2 : 2}
+  lists:
+    - zhaoliu
+    - wangwu
+  Dog:
+    name: นท
+    age: 2
